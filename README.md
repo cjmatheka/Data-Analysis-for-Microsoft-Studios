@@ -34,7 +34,7 @@ The information helps us to understand movie performance, genres/combinations of
 
 **DATA ANALYSIS AND VISUALIZATION**
 Monthly Release Dates for the top 100 Movies
- ![Monthly Release Dates for the top 100 Movies](Image/image_1.png)
+ ![Monthly Release Dates for the top 100 Movies](Image/Image_1.png)
 
 Studios with the Highest number of Movies in Top 250 List
  ![Studios with the Highest number of Movies in Top 250 List](Images/image_2.png)
