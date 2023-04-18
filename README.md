@@ -34,7 +34,7 @@ The information helps us to understand movie performance, genres/combinations of
 
 **DATA ANALYSIS AND VISUALIZATION**
 Monthly Release Dates for the top 100 Movies
- ![Monthly Release Dates for the top 100 Movies](Image/Image_1.png)
+ ![Monthly Release Dates for the top 100 Movies](Images/Image_1.png)
 
 Studios with the Highest number of Movies in Top 250 List
  ![Studios with the Highest number of Movies in Top 250 List](Images/image_2.png)
@@ -44,6 +44,8 @@ Most Common Genres in Highest Grossing Films
 
 
 **CONCLUSION AND RECOMMENDATIONS**
-The analysis shows a strong correlation between movie genre and performance as well as production studio and performance. The recommendation is for Microsoft to produce movies in the Adventure, Action, Fantasy, Science Fiction, and Comedy genres and partner with production studios such as Warner Bros, Fox, Universal Studios, and Walt Disney Studio Pictures. 
+The analysis shows a strong correlation between movie genre and performance as well as production studio and performance. 
+
+The recommendation is for Microsoft to produce movies in the Adventure, Action, Fantasy, Science Fiction, and Comedy genres and partner with production studios such as Warner Bros, Fox, Universal Studios, and Walt Disney Studio Pictures. 
 
 Production cost and release month are also factors to consider but of lower priority.
