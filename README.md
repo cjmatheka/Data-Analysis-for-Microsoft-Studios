@@ -33,17 +33,17 @@ The information helps us to understand movie performance, genres/combinations of
 
 
 ## DATA ANALYSIS AND VISUALIZATION
-**Monthly Release Dates for the top 100 Movies**
+*Monthly Release Dates for the top 100 Movies*
  ![Monthly Release Dates for the top 100 Movies](Images/Image1.png)
 The highest number of movies in the top 500 list were released in March and April, June and July, and September, October, and November, indicating that these months may be more profitable for movie releases. Other factors, such as weather, may also influence people to watch movies more during these months, particularly in June and July when many parts of the world experience colder climates.
 
 
-**Studios with the Highest number of Movies in Top 250 List*
+*Studios with the Highest number of Movies in Top 250 List*
  ![Studios with the Highest number of Movies in Top 250 List](Images/Image2.png)
 The chart compares the number of top 250 grossing movies released by different studios. Fox is the leading studio with 49 movies, followed by BV Pictures with 44 movies, Universal Studios with 39 movies, and WB, Sony, and Par. Pictures with 28, 25, and 23 movies respectively. These studios have successfully dominated the market and produced highly profitable films, making them valuable for Microsoft studios to learn from or partner with.
 
 
-**Most Common Genres in Highest Grossing Films**
+*Most Common Genres in Highest Grossing Films*
  ![Most Common Genres in Highest Grossing Films](Images/Image3.png)
 The horizontal bar chart shows that Adventure is the most common genre in the top 100 highest grossing movies, followed by Action, Fantasy, and Science Fiction. Focusing on these genres and combining them could provide a viable opportunity for capturing the global film market. 
 
