@@ -2,7 +2,7 @@
 Using data to drive strategic business decisions
 
 ## OVERVIEW
-The objective is to examine data on movies to determine why they perform the way they do and recommend the best types of movies for Microsoft’s new studio to produce. The success of James Cameron’s Avatar movies shows that choosing the right types of films can bring in good results. Historical data on films can help determine what types of films to invest in.
+The objective was to examine data on movies to determine why they perform the way they do and recommend the best types of movies for Microsoft’s new studio to produce. The success of James Cameron’s Avatar movies shows that choosing the right types of films can bring in good results. Historical data on films can help determine what types of films to invest in.
 
 
 ## BUSINESS UNDERSTANDING
