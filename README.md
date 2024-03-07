@@ -48,7 +48,8 @@ The chart compares the number of top 250 grossing movies released by different s
 The horizontal bar chart shows that Adventure is the most common genre in the top 100 highest grossing movies, followed by Action, Fantasy, and Science Fiction. Focusing on these genres and combining them could provide a viable opportunity for capturing the global film market. 
 
 
-### CONCLUSION AND RECOMMENDATIONS
+### CONCLUSION AND RECOMMENDATIONSrgit update
+
 The analysis shows a strong correlation between movie genre and performance as well as production studio and performance. 
 
 The recommendation is for Microsoft to produce movies in the Adventure, Action, Fantasy, Science Fiction, and Comedy genres and partner with production studios such as Warner Bros, Fox, Universal Studios, and Walt Disney Studio Pictures. 
